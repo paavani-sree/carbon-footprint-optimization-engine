@@ -1,0 +1,27 @@
+[
+  {
+    "name": "GreenSteel Ltd",
+    "sustainability_score": 82,
+    "base_emission":1.1
+  },
+  {
+    "name": "FastMetal Corp",
+    "sustainability_score": 60,
+    "base_emission":1.4
+  },
+  {
+    "name": "EcoBuild Materials",
+    "sustainability_score": 90,
+    "base_emission":1.2
+  },
+  {
+    "name": "GlobalCement Inc",
+    "sustainability_score": 70,
+    "base_emission":1.6
+  },
+  {
+    "name": "CarbonLite Supplies",
+    "sustainability_score": 88,
+    "base_emission":1.4
+  }
+]
